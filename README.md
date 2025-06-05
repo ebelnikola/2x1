@@ -2,7 +2,7 @@
 
 This repository contains:
 
-- File `paper.pdf` with the paper "Tensor Renormalization Group Meets Computer Assistance" [?????].
+- File `paper.pdf` with the paper "Tensor Renormalization Group Meets Computer Assistance" [[ArXiv:2506.03247](https://arxiv.org/abs/2506.03247)].
 - The notebook `HT.ipynb` with the code used for the computer assisted proofs in the paper.
 - Files `Manifest.toml` and `Project.toml` specifying the package versions required to run `HT.ipynb`.
 - File `.JuliaFormatter.toml` specifying the code formatting options.
